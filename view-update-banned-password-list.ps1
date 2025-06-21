@@ -14,6 +14,9 @@
 
  www.dan-t.cloud
  
+- Always validate any code obtained from external sources to confirm it aligns with your organisation's security and operational requirements.
+- Ensure this script is thoroughly reviewed and tested in a non-production environment before using it in a live system.
+ 
 #>
 
 # Connect to Microsoft Graph with required scope
